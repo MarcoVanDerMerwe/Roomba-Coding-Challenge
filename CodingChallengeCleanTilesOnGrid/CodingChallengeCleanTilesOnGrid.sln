@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingChallengeCleanTilesOnGrid", "CodingChallengeCleanTilesOnGrid\CodingChallengeCleanTilesOnGrid.csproj", "{81AF3179-FD84-4EBC-9FE8-58D662D94DE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81AF3179-FD84-4EBC-9FE8-58D662D94DE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81AF3179-FD84-4EBC-9FE8-58D662D94DE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81AF3179-FD84-4EBC-9FE8-58D662D94DE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81AF3179-FD84-4EBC-9FE8-58D662D94DE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3F31001-FFC5-4A84-AE41-F1EE0DFD4D60}
+	EndGlobalSection
+EndGlobal

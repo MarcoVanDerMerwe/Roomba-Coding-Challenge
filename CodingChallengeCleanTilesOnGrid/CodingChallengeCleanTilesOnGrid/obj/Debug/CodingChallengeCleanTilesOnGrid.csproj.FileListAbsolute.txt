@@ -1,0 +1,9 @@
+C:\Users\hanno\OneDrive\Documents\Coding\Projectsc#\CodingChallengeCleanTilesOnGrid\CodingChallengeCleanTilesOnGrid\bin\Debug\CodingChallengeCleanTilesOnGrid.exe.config
+C:\Users\hanno\OneDrive\Documents\Coding\Projectsc#\CodingChallengeCleanTilesOnGrid\CodingChallengeCleanTilesOnGrid\bin\Debug\CodingChallengeCleanTilesOnGrid.exe
+C:\Users\hanno\OneDrive\Documents\Coding\Projectsc#\CodingChallengeCleanTilesOnGrid\CodingChallengeCleanTilesOnGrid\bin\Debug\CodingChallengeCleanTilesOnGrid.pdb
+C:\Users\hanno\OneDrive\Documents\Coding\Projectsc#\CodingChallengeCleanTilesOnGrid\CodingChallengeCleanTilesOnGrid\bin\Debug\System.Drawing.Common.dll
+C:\Users\hanno\OneDrive\Documents\Coding\Projectsc#\CodingChallengeCleanTilesOnGrid\CodingChallengeCleanTilesOnGrid\obj\Debug\CodingChallengeCleanTilesOnGrid.csprojAssemblyReference.cache
+C:\Users\hanno\OneDrive\Documents\Coding\Projectsc#\CodingChallengeCleanTilesOnGrid\CodingChallengeCleanTilesOnGrid\obj\Debug\CodingChallengeCleanTilesOnGrid.csproj.CoreCompileInputs.cache
+C:\Users\hanno\OneDrive\Documents\Coding\Projectsc#\CodingChallengeCleanTilesOnGrid\CodingChallengeCleanTilesOnGrid\obj\Debug\CodingChallengeCleanTilesOnGrid.csproj.CopyComplete
+C:\Users\hanno\OneDrive\Documents\Coding\Projectsc#\CodingChallengeCleanTilesOnGrid\CodingChallengeCleanTilesOnGrid\obj\Debug\CodingChallengeCleanTilesOnGrid.exe
+C:\Users\hanno\OneDrive\Documents\Coding\Projectsc#\CodingChallengeCleanTilesOnGrid\CodingChallengeCleanTilesOnGrid\obj\Debug\CodingChallengeCleanTilesOnGrid.pdb
